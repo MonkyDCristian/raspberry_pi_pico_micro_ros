@@ -4,7 +4,7 @@ microros node using micro_ros_platformio with raspberry PI and Arduino framework
 
 Steps:
 
-  Add to your /.pio/libdeps/esp32doit-devkit-v1/micro_ros_platformio/metas/colcon.meta file:
+  Add to your /.pio/libdeps/pico/micro_ros_platformio/metas/colcon.meta file:
   "microxrcedds_client": {
       "cmake-args": [
           "-DUCLIENT_HARD_LIVELINESS_CHECK=ON",

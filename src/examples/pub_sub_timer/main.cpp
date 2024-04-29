@@ -1,6 +1,6 @@
 /*
 This example is a combination of publisher, subscriber and timer running in the same 
-microros node using micro_ros_platformio with raspberry PI and Arduino framework
+microros node using micro_ros_platformio with raspberry PI pico and Arduino framework
 
 Steps:
 
